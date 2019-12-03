@@ -1,0 +1,5 @@
+Bismarck, 356.2, 151.7
+montana, 218.3, 140.6
+Santa Fe, 272.4, 344
+Augusta, 742.5, 151.6
+Carson City, 93, 248.4
